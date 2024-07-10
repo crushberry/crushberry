@@ -17,4 +17,4 @@
 <img src="https://github.com/tojifg/tojifg/blob/main/images/svg/O_O.svg"</img>
 </a>
 
-![](https://komarev.com/ghpvc/?username=tojifg&color=FFC0FC&style=for-the-badge&label=VICTIM+COUNT&base=10000)
+![](https://komarev.com/ghpvc/?username=crushberry&color=FFC0FC&style=for-the-badge&label=VICTIM+COUNT&base=10000)
